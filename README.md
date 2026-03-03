@@ -1,6 +1,9 @@
 # GRAM (Generalized Region-Aware Mixture-of-Experts)
 
-This repository contains the implementation of **GRAM**, a test-time adaptation framework for robust slum segmentation using satellite imagery. GRAM enables scalable, label-efficient mapping of informal settlements by combining region-specific experts and prediction consistency filtering.
+This repository contains the implementation of **GRAM**, a test-time adaptation framework for robust slum segmentation using satellite imagery. GRAM enables scalable, label-efficient mapping of informal settlements by combining region-specific experts and prediction consistency filtering. [Paper](https://arxiv.org/abs/2511.10300)
+
+✨ Honored with the Outstanding Paper Award at AAAI 2026 🏆
+🎉 We have released our dataset! Check it out [here](https://github.com/DS4H-GIS/GRAM-Dataset/blob/main/README.md).
 
 ## Prerequisites
 
