@@ -69,3 +69,15 @@ python main_moe_pl_v3.py \
 - Checkpoint files are stored in the `checkpoint/` directory.
 - Metadata such as domain splits or city mappings can be found in `metadata/`.
 
+---
+
+## Citation
+
+```bibtex
+@inproceedings{lee2026gram,
+  title     = {Generalizable Slum Detection from Satellite Imagery with Mixture-of-Experts},
+  author    = {Lee, Sumin and Park, Sungwon and Yang, Jeasurk and Kim, Jihee and Cha, Meeyoung},
+  booktitle = {Proceedings of the AAAI Conference on Artificial Intelligence},
+  year      = {2026}
+}
+```
